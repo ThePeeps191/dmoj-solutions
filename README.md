@@ -5,6 +5,8 @@ View [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to this repo
 
 # Contributers
 
+Please do not write your name in the problem files. By doing so, you will get banned from contributing to this repository. Instead, write a quick comment if you are not in the Contributors list and we will add you.
+
 Top contributors:
 <ul>
 	<li>owner: <a href="https://github.com/ThePeeps191">ThePeeps191</a></li>
