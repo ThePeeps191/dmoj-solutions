@@ -8,4 +8,6 @@ Make a folder for the Programming Language you are using if there isn't already 
 
 # What To Do
 
-When contributing, you can either add a new problem or complete an already existing one (denoted by a comment saying `not yet completed`)
+When contributing, you can either add a new problem or complete an already existing one (denoted by a comment saying `not yet completed`). There are also some issues you can solve.
+
+# Good Luck!
