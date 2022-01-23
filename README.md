@@ -7,5 +7,6 @@ View [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to this repo
 
 Top contributors:
 <ul>
+	<li>owner: <a href="https://github.com/ThePeeps191">ThePeeps191</a></li>
 	<li><a href="https://github.com/calgary34">calgary34</a></li>
 </ul>
