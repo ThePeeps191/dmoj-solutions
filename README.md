@@ -3,7 +3,7 @@ A collection of solutions for problems on DMOJ.
 
 View [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to this repository!
 
-# Contributers
+# Contributors
 
 Please do not write your name in the problem files. By doing so, you will get banned from contributing to this repository. Instead, write a quick comment if you are not in the Contributors list and we will add you.
 
