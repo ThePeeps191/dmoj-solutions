@@ -1,0 +1,1 @@
+r, c = int(input()), int(input())
