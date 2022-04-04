@@ -1,3 +1,5 @@
+# work in progress
+
 A, B = 0, 0
 
 deck = [input() for _ in range(52)]
